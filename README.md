@@ -21,7 +21,7 @@
 <div> 
   <a href = "gustavofreita2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/gustavo-freitas-8109bb201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5513996581756&text=Ol%C3%A1%20Wesley!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5513988028035&text=Ol%C3%A1%20Gustavo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
  
   ![Snake animation](https://github.com/W3SL3YZz/W3SL3YZz/blob/output/github-contribution-grid-snake.svg)

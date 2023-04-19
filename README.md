@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Freitas! 
  
-- 🖊 FullStack Developer Junior!
+- 🖊 FullStack Developer Junior - Student!
 - ✉ Contact me by email: gustavofreita2013@gmail.com
 
  <div>

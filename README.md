@@ -23,6 +23,6 @@
   <a href="https://api.whatsapp.com/send?phone=5513988028035&text=Ol%C3%A1%20Gustavo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
  
-  ![Snake animation](https://github.com/GustavoFreitas2806/GustavoFreitas2806/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/GustavoFreitas2806/GustavoFreitas2806/blob/dist/github-contribution-grid-snake.svg)
  
 </div>
